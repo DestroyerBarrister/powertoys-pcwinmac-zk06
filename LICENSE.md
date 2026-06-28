@@ -1,4 +1,4 @@
-# 
+# 自定义 PowerToys 扩展 Mac OS版 | 最佳 PowerToys 扩展 PC Windows版。集成 批处理 和 磁盘碎片整理，跨平台性能最大化。
 
 
 
